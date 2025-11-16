@@ -25,11 +25,11 @@ const CardDetails = () => {
   return (
     <div className="mt-10 flex flex-col gap-5 sm:mt-40">
       <div className="flex flex-col justify-center items-center font-bold sm:flex-row sm:gap-1 sm:text-xl">
-        <p className="text-4xl">Recycle smarter, live cleaner – manage your e-waste with ease!</p>
+        <p className="text-4xl text-center">Recycle smarter, live cleaner – manage your e-waste with ease!</p>
       </div>
-      <div className="sm:flex justify-center sm:text-xl mb-8">
-        <p className="text-center">Turn old electronics into a greener tomorrow, </p>
-        <p className="text-center">one click at a time!</p>
+      <div className="sm:flex sm:text-xl mb-8 text-center text-xl">
+        <p>Turn old electronics into a greener tomorrow, </p>
+        <p>one click at a time!</p>
       </div>
 
       <div className="flex flex-col items-center gap-7 sm:gap-16 sm:flex-row sm:justify-center mx-auto">
