@@ -10,7 +10,7 @@ const DashBoardpage = () => {
                         <div>
                             <FileText color='blue' size={32} className='sm:size-10 sm:ml-3' />
                         </div>
-                         <p className='sm:text-3xl text-2xl font-bold items-center flex'>ShareDoc</p>
+                         <p className='sm:text-3xl text-2xl font-bold items-center flex'>WasteConnect</p>
                     </div>
               <NavBar/>
               

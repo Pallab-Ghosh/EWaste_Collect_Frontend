@@ -8,10 +8,10 @@ const HomeBtn = () => {
   return (
     <div className="flex justify-center mt-10">
       <button
-        className="h-12 bg-blue-700 w-52 rounded-lg text-white sm:text-2xl sm:w-60 font-bold"
-        onClick={() => router.push('/')}//TODO[:as of now go to home page later go on dashboard page]
+        className="h-12 bg-white w-52 rounded-lg text-black sm:text-2xl sm:w-72 "
+        onClick={() => router.push('/SignUp')}//TODO[:as of now go to home page later go on dashboard page]
       >
-        Start Free Today
+        Create your Account
       </button>
     </div>
   )
